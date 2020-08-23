@@ -1,0 +1,1 @@
+I've placed a few scripts in the repository to view, but if you wish to view the rest of the scripts simply download and unpack the C# Learning Scripts.rar file.
